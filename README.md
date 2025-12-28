@@ -55,4 +55,33 @@ The system is suitable for **security surveillance**, **home safety**, **office 
 - Smart surveillance system demonstrations
 
 
+---
+
+## 🧠 System Architecture (High Level)
+
+The system uses a live camera feed to continuously monitor the environment.  
+When suspicious movement or predefined threat patterns are detected, the system immediately triggers alerts and evidence capture.
+
+**Flow:**
+Camera → Video Processing → Threat Detection Logic → Alert System → Evidence Storage → Owner Notification
+
+---
+
+## 📊 Output & Evidence Handling
+
+- Captures **images** automatically when a threat is detected  
+- Records **video clips** for evidence  
+- Triggers **audio alerts (beep/alarm)** in real time  
+- Stores evidence securely for later review  
+
+---
+
+## 🚀 Future Enhancements
+
+- AI-based object classification (weapon / intrusion detection)
+- Cloud-based alert notifications (email / mobile)
+- Dashboard for monitoring logs and events
+- Integration with IoT security devices
+
+
 
