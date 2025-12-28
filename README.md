@@ -13,15 +13,14 @@ The system is suitable for **security surveillance**, **home safety**, **office 
 
 ---
 
-## 🚨 Key Features
+## 🚨 Real-Time Alert Features
 
-- 🎥 **Live Camera Monitoring**
-- 🧠 **Real-Time Threat Detection**
-- 🔊 **Audio Alert (Beep/Alarm) on Threat Detection**
-- 📸 **Automatic Image Capture**
-- 🎬 **Video Recording of Threat Events**
-- 📩 **Instant Notification to Owner**
-- 🔐 **Security-focused and automation-ready design**
+- Live camera monitoring with continuous detection
+- Automatic beep alert on threat detection
+- Captures photos and short video clips as evidence
+- Sends instant notifications to the system owner
+- Stores detected threat data for later review
+
 
 ---
 
@@ -49,11 +48,12 @@ The system is suitable for **security surveillance**, **home safety**, **office 
 
 ## 🎯 Use Cases
 
-- Home & Office Security
-- Surveillance Systems
-- Restricted Area Monitoring
-- Academic & Research Projects
-- Real-world Cyber Security Applications
+- Home and office security monitoring
+- Shop and warehouse surveillance
+- Restricted area monitoring
+- Academic cyber security projects
+- Smart surveillance system demonstrations
+
 
 ---
 
