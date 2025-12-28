@@ -55,7 +55,4 @@ The system is suitable for **security surveillance**, **home safety**, **office 
 - Smart surveillance system demonstrations
 
 
----
-
-## 📂 Project Structure
 
