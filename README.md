@@ -34,6 +34,19 @@ The system is suitable for **security surveillance**, **home safety**, **office 
 
 ---
 
+# Clone the repository
+git clone https://github.com/your-username/threat-detection-system.git
+
+# Navigate to the project directory
+cd threat-detection-system
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Run the application
+python main.py
+
+
 ## ⚙️ How the System Works
 
 1. Live camera feed is continuously monitored  
