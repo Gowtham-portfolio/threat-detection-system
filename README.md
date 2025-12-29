@@ -96,5 +96,9 @@ Camera → Video Processing → Threat Detection Logic → Alert System → Evid
 - Dashboard for monitoring logs and events
 - Integration with IoT security devices
 
+  
+This project was developed for academic learning and practical experimentation.
+Open to collaboration, internships, and project-based opportunities.
+
 
 
